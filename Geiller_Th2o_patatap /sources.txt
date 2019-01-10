@@ -1,0 +1,69 @@
+
+//SOURCES P5.JS\\
+
+*INTRODUCTION P5.JS*
+Cours permettant d'apprendre a utiliser la bibliotheque P5.js
+https://github.com/b2renger/Introduction_p5js
+
+Cours permettant d'apprendre a utiliser la librairie P5.sound de P5.js
+https://github.com/b2renger/p5js_codecreatif
+
+*STAR*
+fonction créant une étoile avec des données en paramètre
+https://p5js.org/examples/form-star.html
+
+*REGULAR POLYGON*
+fonction créant un polygon avec des données en paramètre
+https://p5js.org/examples/form-regular-polygon.html
+
+Fonction récursive
+Fractal tree inspiré des Codding challenge de la chaine "The coding train" by Daniel Shiffman
+Défis de programmation #14 : Les arbres à fractales - Récursif
+https://github.com/shiffman
+
+
+//SOURCES AUDIO\\
+
+SOUND1, KEY A
+SOUND2, KEY Z
+https://freesound.org/people/11h11/sounds/18659/
+
+SOUNDAMBIANCE,
+SOUND3, KEY E
+SOUND4, KEY R
+SOUND5, KEY T
+SOUND6, KEY Y
+SOUND7, KEY U
+SOUND8, KEY I
+https://freesound.org/people/lenin2/sounds/148781/
+
+
+SOUND9, KEY O
+SOUND10, KEY P
+SOUND11, KEY Q
+https://freesound.org/people/Greek555/sounds/441414/
+
+SOUND12, KEY S
+SOUND13, KEY D
+SOUND14, KEY F
+SOUND15, KEY G
+SOUND16, KEY H
+https://freesound.org/people/bOmbhead/sounds/31500/
+
+SOUND17, KEY J
+SOUND18, KEY K
+https://freesound.org/people/Handemore/sounds/448042/
+
+SOUND19, KEY L
+SOUND20, KEY M
+SOUND21, KEY W
+SOUND22, KEY X
+SOUND23, KEY C
+SOUND24, KEY V
+https://freesound.org/people/bebeto/sounds/555/
+
+SOUND25, KEY B
+https://freesound.org/people/Quonux/sounds/165804/
+
+SOUND26, KEY N
+https://freesound.org/people/Quonux/sounds/166373/
